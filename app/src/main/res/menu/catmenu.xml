@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cat_gold"
+        android:title="Gold" />
+    <item android:id="@+id/cat_silver"
+        android:title="Silver" />
+
+</menu>
