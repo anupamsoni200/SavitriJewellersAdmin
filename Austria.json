@@ -1,0 +1,688 @@
+{
+    "Austria": [
+        {
+            "name": "Hitradio Ö3 live",
+            "url": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4xPFVe7mnq.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Kronehit live",
+            "url": "https://secureonair.krone.at/kronehit1058.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/8jfdyyyphb5p.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Wien live",
+            "url": "https://orf-live.ors-shoutcast.at/wie-q2a?player=radiothek_v1&referer=wien.orf.at&userid=17de8f80-f6d5-4305-becb-f12c76df863a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/seRuZBshjC.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio FM4 live",
+            "url": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cYaerTpbBG.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Ö1 live",
+            "url": "https://orf-live.ors-shoutcast.at/oe1-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/jtBJRTSpBS.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Niederösterreich live",
+            "url": "https://orf-live.ors-shoutcast.at/noe-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/de6PtVxwXL.png",
+            "lang": "Niederösterreich"
+        },
+        {
+            "name": "Radio U1 Tirol live",
+            "url": "https://u1-tirol-stream21.radiohost.de/u1-tirol-live_mp3-192",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/BnNuVn5QHP.jpg",
+            "lang": "Tirol"
+        },
+        {
+            "name": "Radio Lounge FM live",
+            "url": "http://188.138.9.183/digital.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/2Ys78XnzeR.jpg",
+            "lang": "Wien"
+        },
+        {
+            "name": "ORF Radio Tirol Live",
+            "url": "https://orf-live.ors-shoutcast.at/tir-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rD7R7YT2zX.png",
+            "lang": "Tirol"
+        },
+        {
+            "name": "Radio Steiermark live",
+            "url": "https://orf-live.ors-shoutcast.at/stm-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4t2Xcjn5Tx.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio 88.6 live",
+            "url": "https://edge66.streamonkey.net/radio886-onair/stream/mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/MfXAVpvev5.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Austrian Rock Radio Live",
+            "url": "https://live.antenne.at/arr",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4jxvfk5tu9jy.jpeg",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio Arabella live",
+            "url": "https://edge03.streams.arabella.at/arabella-wien?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/HN8pCrfXse.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "ORF Radio Oberösterreich Live",
+            "url": "https://orf-live.ors-shoutcast.at/ooe-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/pUjREZPhVL.png",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Antenne Steiermark Live",
+            "url": "https://live.antenne.at/as",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/aJDGqV87LV.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "ROCK ANTENNE Österreich live",
+            "url": "https://s8-webradio.rockantenne.at/rockantenne-oesterreich/stream/mp3?aw_0_1st.playerid=MyTuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/amhavuflmngk.png",
+            "lang": "Niederösterreich"
+        },
+        {
+            "name": "Radio Austria - Best of Schlager Live",
+            "url": "https://schlager.securestream.radioaustria.at/schlager?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ancrd6yugpzz.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Austria Live",
+            "url": "https://onair.securestream.radioaustria.at/radioaustria?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/YppaU93TwJ.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Salzburg live",
+            "url": "https://orf-live.ors-shoutcast.at/sbg-q2a?player=radiothek_v1&referer=salzburg.orf.at&userid=1f8aa8a4-aaa7-46a9-abaf-e80e8d615577",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/M66geFDZ7b.png",
+            "lang": "Salzburg"
+        },
+        {
+            "name": "Radio Klassik Live",
+            "url": "https://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/bQhahrMkhG.jpeg",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Kärnten live",
+            "url": "https://orf-live.ors-shoutcast.at/ktn-q1a?player=radiothek_v1&referer=kaernten.orf.at&userid=2f1bb9c1-c495-4a64-9fc6-d8c267fbb4f3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/xqkyJCsM23.png",
+            "lang": "Kärnten"
+        },
+        {
+            "name": "Deutsche Welle Live",
+            "url": "https://f131.rndfnk.com/ard/dw/dw08/mp3/64/stream.mp3?sid=2B4leh2VoH5YonRvpv7QBzj0H5T&token=4nsVjOa_AhBCXmhARgmKlI6EJFANil2E41dXDr2dG2U&tvf=jlZxk4T8-xZmMTMxLnJuZGZuay5jb20",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/jfaaqJXMSL.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Austria - Best of 80s Live",
+            "url": "https://80.securestream.radioaustria.at/80?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/aexptasmnstj.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Life Radio Chill Out Live",
+            "url": "https://liferadio.streamabc.net/lfr-chillout-mp3-192-3102923?sABC=62o7348o#0#2qs33rn394oo987rp81n447198r78oqo#zlghare&amsparams=playerid:mytuner;skey:1656173707",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/msc4mbwrbweg.jpg",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "NRJ Energy Hits Live",
+            "url": "http://185.52.127.170/fr/30043/mp3_128.mp3?origine=mytuner&adws_out_b1&access_token=4ed45ae7c99343b2829eebd6c910158f",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wn774ltyvvsv.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Vorarlberg live",
+            "url": "https://orf-live.ors-shoutcast.at/vbg-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/xuBY8qgStz.png",
+            "lang": "Vorarlberg"
+        },
+        {
+            "name": "Life Radio Tirol live",
+            "url": "https://liferadio.streamabc.net/lfr-lr-mp3-192-7172638?sABC=62o7359p#0#2qs33rn394oo987rp81n447198r78oqo#zlghare&amsparams=playerid:mytuner;skey:1656173980",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/23qNhjedxe.png",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Radio Superfly live",
+            "url": "http://stream01.superfly.fm:8080/live128",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/Ka9PmjjnCQ.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "KroneHit Digital Live",
+            "url": "https://secureonair.krone.at/kronehit-hp.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/nPetm78unw.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Antenne Salzburg live",
+            "url": "https://server8773.streamplus.de/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/Kf7e7gxB4B.png",
+            "lang": "Salzburg"
+        },
+        {
+            "name": "Antenne Vorarlberg Live",
+            "url": "https://edge65.radio.antennevorarlberg.at/av-live?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/V3nMwYQxvn.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Burgenland Live",
+            "url": "https://orf-live.ors-shoutcast.at/bgl-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cmH3xuML5F.png",
+            "lang": "Niederösterreich"
+        },
+        {
+            "name": "Radio Austria - Best of 70s Live",
+            "url": "https://70.securestream.radioaustria.at/70?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/zbw2amsflqz6.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Antenne Kärnten live",
+            "url": "https://live.antenne.at/ak",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/BNDFardgpK.png",
+            "lang": "Kärnten"
+        },
+        {
+            "name": "Arabella Hits & Schlager Live",
+            "url": "https://edge62.streams.arabella.at/arabella-schlager?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rxDpqdbE6p.jpg",
+            "lang": "Wien"
+        },
+        {
+            "name": "Antenne Tirol Live",
+            "url": "http://streamplus30.leonex.de:14840/;stream.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/quXHjN8DWt.png",
+            "lang": "Tirol"
+        },
+        {
+            "name": "Radio Austria - Best of 60s Live",
+            "url": "https://60.securestream.radioaustria.at/60?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/xd8bwdyspbhq.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Volksmusikpur-Tradition Live",
+            "url": "https://volksmusikpur.stream.laut.fm/volksmusikpur?t302=2022-06-25_18-38-52&uuid=f80cee8b-509c-4e72-a1e9-99d8bdc5bff4",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4tqjdq8khghc.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Lounge FM 100% Austria Live",
+            "url": "http://188.138.9.183/100austria.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/x5qbmdahgbzg.jpg",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Austria - Best of Austria Live",
+            "url": "https://austro.securestream.radioaustria.at/austro?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cmyxu3ajtqbc.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Life Radio Tirol Live",
+            "url": "http://194.232.200.164:8000/;stream.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/YMMqVFbPLx.jpg",
+            "lang": "Tirol"
+        },
+        {
+            "name": "KroneHit Summer Live",
+            "url": "https://secureonair.krone.at/kronehit12.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qfxqr9azgh7x.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Arabella Golden Oldies Live",
+            "url": "https://edge09.stream.radioarabella.de/radioarabella-goldenoldies?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qhpqMSV7Y6.jpg",
+            "lang": "Wien"
+        },
+        {
+            "name": "Antenne Vorarlberg Oldies but Goldies Live",
+            "url": "https://edge09.radio.antennevorarlberg.at/av-oldies?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/me7xsldprsyx.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Arabella Austropop Live",
+            "url": "https://edge60.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/aEuDp55aEY.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Antenne Vorarlberg Partymix Live",
+            "url": "https://edge61.radio.antennevorarlberg.at/av-partymix?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cUMgR25CdR.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "WIEN Meine kinder Radio Live",
+            "url": "http://stream01.zogl.net:8906/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wxenpg72z37k.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Grun-Weiss Live",
+            "url": "https://live.gruen-weiss.at/rgw.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/Vy7ee9EHpq.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio Austria - Best of 90s Live",
+            "url": "https://90.securestream.radioaustria.at/90?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/djghe4lncjul.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "NRJ Energy Latino Live",
+            "url": "http://185.52.127.162/fr/30077/mp3_128.mp3?origine=mytuner&adws_out_b1&access_token=801465c2e5f34dbb9c6e624da7d1ed54",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vs8t9ngkkzq6.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Arabella Oberösterreich live",
+            "url": "https://edge01.streams.arabella.at/arabella-oberoesterreich/stream/mp3?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/hAx6qz8T3U.png",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "88.6 Hard Rock Live",
+            "url": "https://edge10.streamonkey.net/radio886-hardrock",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/eGAkPHRcd9.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Klassik Radio Österreich Live",
+            "url": "https://edge61.streams.klassikradio.de/klassikradio-oesterreich?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/GrYXkBr5Fh.png",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Antenne Vorarlberg Classic Rock Live",
+            "url": "https://edge61.radio.antennevorarlberg.at/av-classicrock?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/SGYuyVypE3.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Arabella Lovesongs Live",
+            "url": "https://edge03.streams.arabella.at/arabella-lovesongs?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/W2LEsPrFnf.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "88.6 Classic Rock Live",
+            "url": "https://edge51.streamonkey.net/radio886-classicrock/stream/mp3?aggregator=my_tuner_radio_com",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/uwwdmyvrdv2l.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Arabella 80er Live",
+            "url": "https://edge02.stream.radioarabella.de/radioarabella-80er?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/hVp8nNKBqu.jpg",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Austria - Best of Rock Live",
+            "url": "https://rock.securestream.radioaustria.at/rock?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/9pxqy66bjppn.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Arabella Ti Amo Live",
+            "url": "https://edge59.streams.arabella.at/arabella-tiamo?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/brApaqyCq9.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "arabella RELAX Live",
+            "url": "https://edge61.streams.arabella.at/arabella-relax?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ysPTbHuBTb.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "NRJ Energy Salzburg Live",
+            "url": "http://stream1.energy.at:8000/sbg",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/c2kZd2hGAz.png",
+            "lang": "Salzburg"
+        },
+        {
+            "name": "Life Radio Classic Rock Live",
+            "url": "https://liferadio.streamabc.net/lfr-crock-mp3-192-6797911?sABC=62o7s3r1#0#1700o95q12482571836o6ro3s6q1r9s2#zlghare&amsparams=playerid:mytuner;skey:1656222689",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/jbnjrxht8nqm.jpg",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Radio Austria - Best of Relax Live",
+            "url": "https://relax.securestream.radioaustria.at/relax?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/9qssqehs7d3p.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Lounge FM UKW Wien Live",
+            "url": "http://188.138.9.183/ukwwien.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/tafdcbdtuuvt.jpg",
+            "lang": "Niederösterreich"
+        },
+        {
+            "name": "Life Radio 80er Live",
+            "url": "https://liferadio.streamabc.net/lfr-80er-mp3-192-3783855?sABC=62o7s6no#0#9345334265rrn29o9rn5145s4oos4203#zlghare&amsparams=playerid:mytuner;skey:1656223403",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/5hhswjuhj3ne.jpg",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Antenne Vorarlberg Love Songs Live",
+            "url": "https://edge61.radio.antennevorarlberg.at/av-lovesongs?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/crEdrdN2Ce.png",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Radio Austria - Best of 2000 Live",
+            "url": "https://2000.securestream.radioaustria.at/2000?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vfldr4ecybku.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Soundportal Live",
+            "url": "https://rs8.stream24.net/radio-soundportal.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/jevzFyfDW4.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Welle 1 Salzburg Live",
+            "url": "https://live.welle1.at:18128/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/5VEYGXtkwk.png",
+            "lang": "Salzburg"
+        },
+        {
+            "name": "Antenne Vorarlberg Chillout Lounge Live",
+            "url": "https://edge59.radio.antennevorarlberg.at/av-chillout?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/5xE3NCcYDZ.png",
+            "lang": "Salzburg"
+        },
+        {
+            "name": "arabella GOLD Live",
+            "url": "https://edge10.streams.arabella.at/arabella-gold?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rZmGeeGVNm.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Technikum One Live",
+            "url": "http://radiotechnikum.macjingle.at:8200/;stream/1",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/j4hu7kc8urvb.jpg",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Maria Österreich live",
+            "url": "http://live.radiomaria.at:8000/rma",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/sUCVVvW9ER.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio X-MAS Live",
+            "url": "http://www.radio-xmas.at:8000/radio-xmas.at-128.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/hqdlvgkcvhr7.jpeg",
+            "lang": "Wien"
+        },
+        {
+            "name": "Ö1 Campus Live",
+            "url": "https://orf-live.ors-shoutcast.at/campus-q2a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/zBpVmSSdUx.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Welle 1 Linz Live",
+            "url": "https://live.welle1.at:17128/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/H5Arc3J7h3.png",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Radio Austria - TOP 40 Live",
+            "url": "https://top40.securestream.radioaustria.at/top40?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/2cn7hfb4avpx.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "NRJ Energy Pop RnB Dance Live",
+            "url": "http://185.52.127.131/fr/31489/mp3_128.mp3?origine=mytuner&adws_out_a3&access_token=6906ffcbc45d47528298065c13aca522",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/fdkxxflyjjjn.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Alpina 106.9 FM Live",
+            "url": "https://ice43.fluidstream.net/alpina.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/dgpemsnfthxb.png",
+            "lang": "Salzburg"
+        },
+        {
+            "name": "Arabella Niederösterreich Live",
+            "url": "https://edge01.streams.arabella.at/arabella-niederoesterreich?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ZpKRDASHXS.png",
+            "lang": "Niederösterreich"
+        },
+        {
+            "name": "Radio Fantasy Live",
+            "url": "http://stream.radio-fantasy.at:9222/",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/3xwg3nuuseub.png",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Life Radio 90er Live",
+            "url": "https://liferadio.streamabc.net/lfr-90er-mp3-192-2243944?sABC=62o7ss1o#0#9345334265rrn29o9rn5145s4oos4203#zlghare&amsparams=playerid:mytuner;skey:1656225563",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/24swhs7es5m7.jpg",
+            "lang": "Oberösterreich"
+        },
+        {
+            "name": "Antenne Vorarlberg Rock Radio Live",
+            "url": "https://edge60.radio.antennevorarlberg.at/av-rock?aggregator=mytuner",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/yea47hgmbudn.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "",
+            "url": "",
+            "image": "",
+            "lang": ""
+        },
+        {
+            "name": "Hitradio Ö3 live",
+            "url": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4xPFVe7mnq.png",
+            "lang": "Wien"
+        }
+    ]
+}
