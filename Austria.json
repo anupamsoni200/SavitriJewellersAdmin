@@ -702,7 +702,7 @@
             "image": "https://static.mytuner.mobi/media/tvos_radios/Mt8Ag4CYX9.png",
             "lang": "Kärnten"
         },
-         {
+        {
             "name": "Welle 1 Graz Live",
             "url": "https://live.welle1.at:19128/stream",
             "image": "https://static.mytuner.mobi/media/tvos_radios/PhfTt9ksEX.png",
@@ -804,7 +804,7 @@
             "image": "https://static.mytuner.mobi/media/tvos_radios/pMYPkCWUP5.png",
             "lang": "Burgenland"
         },
-         {
+        {
             "name": "Antenne Vorarlberg Live",
             "url": "https://edge60.radio.antennevorarlberg.at/av-live?aggregator=mytuner",
             "image": "https://static.mytuner.mobi/media/tvos_radios/V3nMwYQxvn.png",
