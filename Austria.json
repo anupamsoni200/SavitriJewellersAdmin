@@ -702,6 +702,108 @@
             "image": "https://static.mytuner.mobi/media/tvos_radios/Mt8Ag4CYX9.png",
             "lang": "Kärnten"
         },
+         {
+            "name": "Welle 1 Graz Live",
+            "url": "https://live.welle1.at:19128/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/PhfTt9ksEX.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio Hot 100 Live",
+            "url": "https://radio-hot100.stream.laut.fm/radio-hot100",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/kvmNwDRrTc.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "NJOY Radio Steiermark Live",
+            "url": "http://live.njoyradio.at/njoy",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qjxZ2eWVhf.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Q Radio - das LGBT Radio Live",
+            "url": "http://host6.cartwall.at:8956/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rqt4sdp9sua5.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radyo Dost Viyana Live",
+            "url": "http://ip131.radyotelekom.com:6262/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/2jvnLTBCc8.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio West 2.0 Live",
+            "url": "http://r-west.stream.laut.fm/r-west?t302=2022-06-27_13-55-36&uuid=8af79e3e-c466-4ef7-ab47-e925e879b027",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/Tp5mKGubGq.jpeg",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio West Live",
+            "url": "https://r-west.stream.laut.fm/r-west?t302=2022-06-27_13-57-47&uuid=47032e72-2b0e-4d89-b4b3-1ef54050224e",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wtec3jrlcvy6.jpg",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "NRJ Energy Osterreich Live",
+            "url": "http://185.52.127.170/at/55212/mp3_128.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/zhgvfmssnzat.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio Helsinki Live",
+            "url": "https://live.helsinki.at:8088/live160.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/YPVFLgujW2.jpeg",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio M1 Live",
+            "url": "https://m1.stream.laut.fm/m1?t302=2022-06-27_14-00-12&uuid=4ccf5e1e-c876-494a-994f-580298a57425",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/swjt9t62ddjn.jpeg",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Radio FREEQUENNS Live",
+            "url": "http://livestream.freequenns.at/live",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/L4bry5PfLb.png",
+            "lang": "Steiermark"
+        },
+        {
+            "name": "Hitradio Ö3 live",
+            "url": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4xPFVe7mnq.png",
+            "lang": "Burgenland"
+        },
+        {
+            "name": "Radio 88.6 live",
+            "url": "https://edge94.streamonkey.net/radio886-onair/stream/mp3?aggregator=my_tuner_radio_com",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/MfXAVpvev5.png",
+            "lang": "Burgenland"
+        },
+        {
+            "name": "Antenne Steiermark Live",
+            "url": "https://live.antenne.at/as",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/aJDGqV87LV.png",
+            "lang": "Burgenland"
+        },
+        {
+            "name": "KroneHit Digital Live",
+            "url": "https://secureonair.krone.at/kronehit-hp.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/nPetm78unw.png",
+            "lang": "Burgenland"
+        },
+        {
+            "name": "Radio Burgenland Live",
+            "url": "https://orf-live.ors-shoutcast.at/bgl-q1a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cmH3xuML5F.png",
+            "lang": "Burgenland"
+        },
+        {
+            "name": "Radio OP Live",
+            "url": "http://server4.streamserver24.com:26250/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/pMYPkCWUP5.png",
+            "lang": "Burgenland"
+        },
         {
             "name": "macjingle Heartbeat Live",
             "url": "http://host6.cartwall.at:7200/;",
