@@ -1020,6 +1020,48 @@
             "image": "https://static.mytuner.mobi/media/tvos_radios/m3umfkbzzcsy.png",
             "lang": "Kärnten"
         },
+                {
+            "name": "Radio Austria - Best of Hüttengaudi Live",
+            "url": "https://event.securestream.radioaustria.at/event?aw_0_req.gdpr=true",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/aq8kcx6ntxjt.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio Maria Österreich live",
+            "url": "http://live.radiomaria.at:8000/rma",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/sUCVVvW9ER.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Ö1 Campus Live",
+            "url": "https://orf-live.ors-shoutcast.at/campus-q2a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/zBpVmSSdUx.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "Radio SOL Live",
+            "url": "http://sol.anw.at:8023/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qb3cj4gnpqa9.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "88.6 Rot Weiss Rot Live",
+            "url": "https://edge04.streamonkey.net/radio886-rotweissrock/stream/mp3?aggregator=my_tuner_radio_com",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/tfhcczn5kzh8.png",
+            "lang": "Wien"
+        },
+        {
+            "name": "ERF Pop Live",
+            "url": "https://erf1068--di--nacs-ice-01--01--cdn.cast.addradio.de/erf1068/live/mp3/high?_art=dj0yJmlwPTQ2LjIyOS40NS4xMzkmaWQ9aWNzY3hsLWthYW40anRvYiZ0PTE2NTYxNjI2MDgmcz03ODY2ZjI5YyNhOWIxZDFmMTIyZTdkYTQ0Yzg5MmY4YWIxNDRhNzg2Yw&ar-distributor=ffa5",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/JCjcPaHNhR.jpg",
+            "lang": "Wien"
+        },
+        {
+            "name": "KroneHit BigCity Beats Live",
+            "url": "https://136.243.111.216/bigcitybeats",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ulfksuqjy7kt.png",
+            "lang": "Wien"
+        },
         {
             "name": "macjingle Heartbeat Live",
             "url": "http://host6.cartwall.at:7200/;",
