@@ -1,0 +1,1180 @@
+{
+    "Denmark": [
+        {
+            "name": "DR P3 direkte",
+            "url": "http://live-icy.gslb01.dr.dk/A/A05H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/xZkz47Tm5w.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR P4 København direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A08L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/WhsVPWQfgR.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR P1 direkte",
+            "url": "http://live-icy.gslb01.dr.dk/A/A03H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/WuxQegJDBx.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR P5 direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A25L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/EMWcGuNLXk.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Retro-Radio direkte",
+            "url": "https://streammp3.retro-radio.dk/retro-mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/yRVZQUxc22.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "80's Hits direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/eufc2ztvbcdb.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "PartyFM direkte",
+            "url": "http://stream1.partyfm.dk/Party320",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/hrsgga64snwx.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Soft direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/radiosoft_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/SNLyCyh2UK.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Pop FM direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/popfm_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/P6m86HYXKz.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "90's Hits direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP06.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/p2tmpxcdmwnh.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio 100 direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/kvLCgXqn8a.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "The Voice direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ru9rkery59.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Danske 80'er Hits direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP05.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/exlglu5mybcn.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DK4 Dansktop direkte",
+            "url": "https://n08.rcs.revma.com/11cdku6pshruv?rj-ttl=5&rj-tok=AAABgb3h0hQAex2EarVIclbodA",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wqnzfsa7etde.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "myRock direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/WgEYrH7DQR.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Soft Classic direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP08.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/w7cykcjdxwvm.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Retro-Radio Millennium direkte",
+            "url": "https://tx-2.retro-radio.dk/TX-2",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/mr2tfth2wvyu.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "ClassicROCK - Kobenhavn direkte",
+            "url": "http://stream.wlmm.dk/classicrockkbhmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ybcqfyntvubt.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR P2 Klassisk direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A04L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/G7wZspc74P.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR P8 Jazz direkte",
+            "url": "http://live-icy.gslb01.dr.dk/A/A22H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/U3gmYzChRA.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "00's Hits direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP07.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qh5kqlkkrspl.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Pop 80'er direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/popfm80.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/hmpru8q4znst.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR P6 Beat direkte",
+            "url": "http://live-icy.gslb01.dr.dk/A/A29H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/KrRGdKAQ6Y.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "NRJ direkte",
+            "url": "https://n09.rcs.revma.com/vf65su7pshruv?rj-ttl=5&rj-tok=AAABgb3pAVYAL7jQFjjKwv2lAg",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vrbjzheja7hw.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "myROCK Legends of Rock direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP19.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/mtzfxbcc5tzy.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "MTV Radio direkte",
+            "url": "https://n12a-eu.rcs.revma.com/s1b95y0ybhruv?rj-ttl=5&rj-tok=AAABgb3qXsgAeUtxwX0zX8ULeA",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ebap9rpk3h8t.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Soft Modern direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP09.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qfrfhgz8wxbd.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "NOVA Top 40 direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP12.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/prr5jvp9qbqa.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "ClubFM.dk direkte",
+            "url": "https://lyt.til.clubfm.dk:8443/CFM320",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ghx3wbx9wkc3.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR P4 Bornholm direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A06L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/LYzgJJrdtp.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Viborg 106.8 FM direkte",
+            "url": "https://webradio.radioviborg.dk/viborg",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/NvzJVJpzpu.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "24syv direkte",
+            "url": "https://stream.radioloud.dk/loud128",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/sga5ywshykps.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Jazz direkte",
+            "url": "http://radiojazzcopenhagen.out.airtime.pro:8000/radiojazzcopenhagen_a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/7s62at7l4cbf.webp",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Planet Rock direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/planetrock_dk.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wtbpk7whtdpp.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "NOVA 100% Dansk direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/apttcpacgjue.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Rockkanalen direkte",
+            "url": "http://stream.kanalplus.fm/kp96",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/2CnfTgqRtv.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "10's Hits direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP13.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/egjumxzwmtny.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Vinyl direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3?aw_0_1st.bauer_listenerid=undefined&aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1645208506&aw_0_req.userConsentV2=false&direct=true&listenerid=undefined",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ahtdfrfwjywa.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Retro DK direkte",
+            "url": "http://10336.cloudrad.io:9010/live",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/TSBJW9jrYP.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Mix FM direkte",
+            "url": "https://netradio.mixfm.dk/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/jrdsgpfhctnx.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Retro-Radio JUL direkte",
+            "url": "https://tx-1.retro-radio.dk/TX-1",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/pzrgdpqm4svs.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Mix 7 direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/Mix7.mp3?aw_0_1st.bauer_listenerid=undefined&aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1645208546&aw_0_req.userConsentV2=false&direct=true&listenerid=undefined",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/3lr9cenjrzux.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "The Coffee Shop direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP10.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/u4pbzhew9str.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Nord direkte",
+            "url": "https://netradio.radionord.dk:8443/RadioNord",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qyqwe3gf9ub8.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "The Voice In The Mix direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP16.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/dngkuqbec4s2.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "902 FM - Radio Ballerup direkte",
+            "url": "http://stream.wlmm.dk/902fmmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/DCW2t2yLZw.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Pak Link direkte",
+            "url": "http://eu2.fastcast4u.com:4256/stream",
+            "image": "https://static.mytuner.mobi/static/images/radio-default.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "ClubFM.dk - SOFT direkte",
+            "url": "https://lyt.til.clubfm.dk:8443/soft320",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/gjhmvgqcbtks.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Classic Pop direkte",
+            "url": "http://128.76.173.127:8000/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vAWJQenVcj.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Bravo direkte",
+            "url": "http://thassos.cdnstream.com:5228/stream.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/e9DrCB4ZFM.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "The Voice Urban direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP15.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/t6xpqgu595w2.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Halsnæs direkte",
+            "url": "http://halsstream.spdns.de/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/thUqdQSfzv.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "WMR - World Music Radio direkte",
+            "url": "https://stream.probroadcast.dk/wmr",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/x3w6ehnadvqv.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Aap ki Awaz direkte",
+            "url": "http://162.244.80.52:4196/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4evb5fL2gk.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Folk direkte",
+            "url": "https://n04.radiojar.com/fqt2y0ds97zuv?rj-ttl=5&rj-tok=AAABgb3-vq0ArLX6agO2cwNe6A",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wufz9nw8pusf.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Rise FM Denmark direkte",
+            "url": "http://stream.risefm.org:8023/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/atmjdkfkg4gf.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Classic FM direkte",
+            "url": "https://webradio.classicfm.dk/classichorsens.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wffux9ksvhcm.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "DR P4 Østjyllands direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A14H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rQwtNHtwnK.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "DR P4 Midt & Vest direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A09L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/bXGRm6FUTC.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio 100 direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/kvLCgXqn8a.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "The Voice direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ru9rkery59.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "myRock direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/myrock_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/WgEYrH7DQR.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio4 direkte",
+            "url": "https://netradio.radio4.dk/radio4",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/s5r2yjxzn859.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio ABC direkte",
+            "url": "https://radioserver.dk/abc",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ZWSt6J75yZ.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Alfa direkte",
+            "url": "http://89.249.7.68/alfa",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/7e4fXZjYN5.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "VinylHits direkte",
+            "url": "http://stream.vinylhits.dk/vinylmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rkfttgfuqt2x.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Alfa Gold direkte",
+            "url": "https://radioserver.dk/alfaevent",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/xCXucYsu4p.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Viborg 106.8 FM direkte",
+            "url": "https://webradio.radioviborg.dk/viborg",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/NvzJVJpzpu.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "go!FM direkte",
+            "url": "https://radioserver.dk/gofm",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/QYF2uQYtNe.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Alfa Midtjylland direkte",
+            "url": "https://radioserver.dk/alfamidt",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/KxGCa9SFTP.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Solo direkte",
+            "url": "https://radioserver.dk/solo",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/mzXsabpEdC.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Øst FM direkte",
+            "url": "https://stream.probroadcast.dk/oestfmmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cgzbb6kpec2r.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio M direkte",
+            "url": "https://radioserver.dk/radiom",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/6b9nZkszP9.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Skive direkte",
+            "url": "https://radioserver.dk/skive",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/BxjL64wBQV.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Silkeborg direkte",
+            "url": "https://radioserver.dk/silkeborg",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/eGKMwRFkyL.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Head FM.net - Underground House direkte",
+            "url": "https://443-1.reliastream.com/35/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vpecafdkdaxp.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio VLR Horsens Classic direkte",
+            "url": "https://webradio.vlr.dk/classichorsens",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4LpKuTJMey.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Alfa Silkborg direkte",
+            "url": "https://radioserver.dk/alfasilk",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/AhEXYajyvN.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Klitholm direkte",
+            "url": "http://stream.radioklitholm.dk:8000/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/yubzsJN2bS.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Alfa Skive direkte",
+            "url": "https://radioserver.dk/alfaskive",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/tL7NKKJ7Js.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Rønde - Syddjurslokalradio direkte",
+            "url": "https://stream.probroadcast.dk/djurs",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/JdufuNMHUC.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Favrskov direkte",
+            "url": "http://93.160.104.150:88/broadwave.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/BzmcVNzxhf.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio VLR Horsens direkte",
+            "url": "https://webradio.vlr.dk/vlrhorsens",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/DEJegknb3m.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Ringkøbing direkte",
+            "url": "http://netradio.radioringkobing.dk:8000/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/7VqXa9d3c9.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Den Tunge Radio direkte",
+            "url": "http://stream.dentungeradio.dk:9870/dtr.mp3?hash=1499347458099",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/slh9kcj4a6rj.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Adalen direkte",
+            "url": "http://radio-aadalen.no-ip.net:8000/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/mnucueyna2pk.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Marlab direkte",
+            "url": "http://37.187.93.104:8411/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/qytndyt8wath.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio ALR direkte",
+            "url": "https://streamer.radio.co/s6a9beb92e/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/5zMwEzkrL4.jpg",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Din Radio 8600 direkte",
+            "url": "https://radioserver.dk/silkeborg",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/QfQHgTpXCL.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio SNR direkte",
+            "url": "http://10326.cloudrad.io:9056/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/kqad7ztdrqmt.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Randers direkte",
+            "url": "http://31.193.239.90:8000/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/jRBXe7P9cC.png",
+            "lang": "Midtjylland"
+        },
+        {
+            "name": "Radio Nordjyske direkte",
+            "url": "https://stream.anr.dk/nordjyske",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/7nfhv7QAAw.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Vendsyssel FM - Frederikshavn Lokalradio direkte",
+            "url": "http://vendsysselfm.dk:8000/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wpmnvyqfhb9r.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Midtfjord Radio direkte",
+            "url": "http://stream.midtfjordradio.dk/netradio",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/HCMNQwtXUt.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Radio Aura direkte",
+            "url": "http://stream.anr.dk/aura",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/KThVzMX8nD.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Skaga FM direkte",
+            "url": "http://stream.wlmm.dk/skagafm",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/XvvnK8GYMP.jpg",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Radio Happy DK direkte",
+            "url": "https://streaming.radio.co/sd9d980ff0/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/fkzrxsngs32h.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Radio MFK direkte",
+            "url": "https://stream1.radiomfk.dk/radiomfk",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vzsjrshzujnz.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Radio 9220 direkte",
+            "url": "http://stream.supergeek.dk:8000/9220192",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/yDX6wnDxgr.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "LUMI Radio Aalborg direkte",
+            "url": "http://stream.lumiradio.dk:8000/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/2kncqd86vcqs.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Flimmers-Partybus.dk direkte",
+            "url": "http://77.68.243.109/live",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/3CAQpu5SPr.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Limfjord Slager direkte",
+            "url": "http://media.limfjordnetradio.dk:8000/plusslageraac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vajwf9qpnpwl.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "DR P4 Nordjylland direkte",
+            "url": "http://live-icy.gslb01.dr.dk/A/A10H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4VwxFUGVwr.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "ANR Hit FM direkte",
+            "url": "https://stream.anr.dk/anr",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/xz3M8V7zTA.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Radio Nibenitten direkte",
+            "url": "http://stream.nibenitten.dk/netradio",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/vwmhtvlwjgwp.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Radio Limfjord direkte",
+            "url": "http://media.limfjordnetradio.dk:8000/limfjordaac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rNpNcPpBD3.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "Limfjord Mix direkte",
+            "url": "http://media.limfjordnetradio.dk:8000/mixaac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/GLWfBcByzA.png",
+            "lang": "Nordjylland"
+        },
+        {
+            "name": "DR P4 Sjælland direkte",
+            "url": "http://live-icy.gss.dr.dk:8000/A/A11H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/v3jE67Zzwc.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio 100 direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/kvLCgXqn8a.jpg",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "The Voice direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ru9rkery59.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio SLR Slagelse direkte",
+            "url": "https://stream.probroadcast.dk/slagelsemp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/JKEwrhQ3hw.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio Sydhavsøerne direkte",
+            "url": "https://stream.probroadcast.dk/sydhavsradiomp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/BgPHQwynNT.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "ClassicROCK - Ostjylland direkte",
+            "url": "http://stream.wlmm.dk/classicrockarhmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ehdyrrcs8nc3.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio Køge direkte",
+            "url": "https://stream.probroadcast.dk/radiokoege",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/KJd8yCWByK.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio Odsherred direkte",
+            "url": "http://87.104.40.139:88/broadwave.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rubpN3Tw8c.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio MidtSjælland direkte",
+            "url": "http://player.radiomidt.dk/broadwave.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wgu7ced4kkzy.jpg",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio SLR Vordingborg direkte",
+            "url": "https://stream.probroadcast.dk/vordingborgmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/YjTjk4t9tW.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio Freja direkte",
+            "url": "https://solid67.streamupsolutions.com/proxy/ingjmhed?mp=/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/HHbp888vZH.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio SLR Holbæk direkte",
+            "url": "https://stream.probroadcast.dk/holbaekmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rdcR4LWdD3.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio SLR Næstved direkte",
+            "url": "https://stream.probroadcast.dk/naestvedmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/WXW56WRLBd.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Freja Mix direkte",
+            "url": "https://solid67.streamupsolutions.com/proxy/dcvbvqtv?mp=/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ksYjYHppgw.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio Freja Christmas (jul) direkte",
+            "url": "https://solid67.streamupsolutions.com/proxy/fbarcklk?mp=/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/tlx9mfwspatu.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Næstved Lokal Radio direkte",
+            "url": "https://solid67.streamupsolutions.com/proxy/wcwmpntf?mp=/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/XjeqUqr2Wj.bmp",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio SLR Kalundborg direkte",
+            "url": "https://stream.probroadcast.dk/kalundborgmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/BLaQTuMeJt.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio 40plus direkte",
+            "url": "http://stream.radiosolutions.dk/radio40plus",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/6y96xjcwj63l.jpg",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Radio SLR Ringsted direkte",
+            "url": "https://stream.probroadcast.dk/ringstedmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/Hbp6qzvpHs.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "Roskilde DampRadio direkte",
+            "url": "https://ca2ssl.rcast.net/stream/60962/",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/avzagp6ptmhe.png",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "2Town Radio direkte",
+            "url": "https://streaming.radio.co/sd9d980ff0/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/raSFHDZuuh.jpg",
+            "lang": "Sjælland"
+        },
+        {
+            "name": "DR P4 Fyn direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A07L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/YZVkKETukS.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "DR P4 Syd direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A12L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/eNF8BkVnxt.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Guld direkte",
+            "url": "http://stream.wlmm.dk/globusguld.m3u",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/dGJJ5jCGLy.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Globus direkte",
+            "url": "http://stream.wlmm.dk:8000/stream/9/",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/xQvMxFZaVy.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "P5 Fyn direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A02L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/RMYcvjXVwQ.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "DR P4 Trekanten direkte",
+            "url": "http://live-icy.gss.dr.dk:8000/A/A13H.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/3bUqcdrGef.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Kolding direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/2vYTL8Ug99.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio VLR Vejle direkte",
+            "url": "https://webradio.vlr.dk/vlrvejle",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/yhjXQ8L5zN.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Partyradio direkte",
+            "url": "https://s4.radio.co/sa77cf70e9/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/zg3sjvv6uszw.jpg",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "DR P4 Esbjerg direkte",
+            "url": "http://live-icy.gss.dr.dk/A/A15L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/FbfqqCUZWE.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Øst FM direkte",
+            "url": "https://stream.probroadcast.dk/oestfmmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cgzbb6kpec2r.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Diablo direkte",
+            "url": "http://icecast1.radiostuff.dk/Diablo128",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/K23mpYc2sw.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Guld Jul direkte",
+            "url": "https://stream.probroadcast.dk/guldjul",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/djP5MEgPEc.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Guld - Kolding direkte",
+            "url": "https://stream.probroadcast.dk/guldkolding",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/dzw2agjqhqtt.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Esbjerg direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/yKNpB6NCct.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Victoria direkte",
+            "url": "https://stream.probroadcast.dk/victoria",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ZZV4nmSv6v.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio VLR Fredericia/Fyn direkte",
+            "url": "https://webradio.vlr.dk/vlrfredericia",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/UcjpARTxZW.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Sønderborg direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/8TMYmXfabU.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Guld - Esbjerg direkte",
+            "url": "https://stream.probroadcast.dk/guldesbjerg",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/tdxlzrpkpcqz.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Viva direkte",
+            "url": "http://stream.wlmm.dk/radiovivaaac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/93gqxmn62qm8.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Alfa Sydfyn direkte",
+            "url": "https://radioserver.dk/alfanet",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/5VsBzE5QLw.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Det Rigtige Faaborg direkte",
+            "url": "https://stream.probroadcast.dk/detrigtigefaaborgmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ntlkvxuaevsd.jpeg",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Faaborg direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/tlkkvttkuxdz.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio VLR Varde direkte",
+            "url": "https://webradio.vlr.dk/vlrvarde",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/CRQxyzgZxA.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Faaborg direkte",
+            "url": "http://solid24.streamupsolutions.com:8109/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/h9kng5gtvtas.bmp",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Guld - Aabenraa - Sønderborg direkte",
+            "url": "https://stream.probroadcast.dk/guldsyd",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cpa7aruycwuk.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Haderslev direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ZUstCcZtMu.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Guld - Haderslev - Rødding direkte",
+            "url": "https://stream.probroadcast.dk/guldmidt",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/79nb5d4phrx7.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Middelfart direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/wjw2Gz5K2S.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Norea WebRadio direkte",
+            "url": "http://radio.norea.dk:8080/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ttvnhqkdpbu9.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Gold Tønder direkte",
+            "url": "https://stream.probroadcast.dk/guldtoender",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/g6d6zxa8jdwg.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Billund direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/H4RKZRK3ew.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Globus Guld - Vejen direkte",
+            "url": "https://stream.probroadcast.dk/guldnord",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/g8qpfqdbt9en.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio Maelkeboetten direkte",
+            "url": "http://live2.rcast.net:8722/;stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/nrqdwxthsw8k.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Varde direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/J6Jphr9Qk5.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Ribe direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/CZhMkbKeY8.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Radio VLR Kolding direkte",
+            "url": "https://webradio.vlr.dk/vlrkolding",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/bgZa947raz.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "AllSound FM Worship direkte",
+            "url": "https://s4.radio.co/s90cf3ad53/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/u7yhvtM8GY.jpg",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Skala FM Holsted direkte",
+            "url": "https://webradio.skala.fm/skala",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/DC3pSfrDXa.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "RADIO EPIC direkte",
+            "url": "https://play.radioepic.dk/radio/8000/live",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/NyAMjnbT5t.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "AllSound FM direkte",
+            "url": "https://stream.radio.co/scf60c2a6d/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/8X5jJSxDVY.jpg",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Paddifusion Radio direkte",
+            "url": "http://carol.epichosts.co.uk:8160/live.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/2fkgkbkmeh9x.png",
+            "lang": "Syddanmark"
+        },
+        {
+            "name": "Rise FM Denmark direkte",
+            "url": "http://stream.risefm.org:8023/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/atmjdkfkg4gf.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "DR Ramasjang direkte",
+            "url": "http://live-icy.gslb01.dr.dk/A/A24L.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/VsGmZBxsmZ.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "RodovreKanalen direkte",
+            "url": "https://roedovrekanalen.dk:8001/stream.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/tm4skqqhgbdp.jpeg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio PlayBack direkte",
+            "url": "https://stream02.radioplayback.dk/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/LDathBzPBj.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "The Voice Throwback direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/DK_HQ_RP17.aac",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/pzafb96vxxyn.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Club Riva direkte",
+            "url": "https://n13.rcs.revma.com/gxszk2mpshruv?rj-ttl=5&rj-tok=AAABgcz-wdIA1S9HJ1jefPP-kw",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/kxe9rstrcwub.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio 10FM 98.2 direkte",
+            "url": "http://149.202.22.75:8052/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/URxjnWdbmP.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Nightride FM direkte",
+            "url": "https://stream.nightride.fm/nightride.m4a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/gyzskcgawxu8.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Booster Radio direkte",
+            "url": "http://n01.radiojar.com/t70n46q7608uv?rj-ttl=5&rj-tok=AAABgc0AiTYA-ylftz5aV5CchQ",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rutmqkduyffw.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Kultur direkte",
+            "url": "http://198.7.62.157:8278/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/J4V5H22QQq.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "NMRadio - Nida Al-Marifa Islamic Radio direkte",
+            "url": "http://5.56.158.246:8000/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/JcbqnW725e.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "HeartBeats direkte",
+            "url": "https://streaming02.zfast.co.uk/proxy/heartbea?mp=/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/pZRsdUt9Fv.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Projekti 21 102.9 direkte",
+            "url": "http://64.150.176.42:8178/stream.mp3;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/uW7G9fDGX6.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Helsingør 92.8 FM direkte",
+            "url": "https://stream.radiohelsingor.dk/rh",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/rmn64xgqcu2b.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio208 direkte",
+            "url": "https://stream.probroadcast.dk/radio208",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/ah5p7n8pzmc3.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Vesterbo direkte",
+            "url": "http://185.80.220.12:8006/live",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/XRYqmBqhkc.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Corona direkte",
+            "url": "https://s3.radio.co/sc85a422ba/listen",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/cQu53WAmtM.jpg",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "WEB FM direkte",
+            "url": "https://stream1.webfm.dk/Web192",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/dxwdsave2pun.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Hvidovre Nær Radio 95.2 FM direkte",
+            "url": "http://stream.wlmm.dk/hnrmp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/hqxv2kvp6fgl.gif",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Humleborg Online direkte",
+            "url": "https://stream.rcast.net/64547",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/NJYZbEj6Ph.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "ABINAYAM FM direkte",
+            "url": "http://192.99.170.8:5756/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4hd9wwzarm5y.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Nordsjællands Kristne Radio direkte",
+            "url": "http://studie.hkr.dk:8000/;",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/LxHLyT8x9e.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Uniradioen direkte",
+            "url": "https://uniradio.out.airtime.pro/uniradio_a",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/KfLqHk7U2Q.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Den2Radio direkte",
+            "url": "http://81.7.160.152:8010/d2r.mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/j5eyl977gttb.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "Radio Dobre Vibracije 98.9 direkte",
+            "url": "http://stream2.dobrevibracije.dk/stream",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/UkdhGuzbzY.png",
+            "lang": "Hovedstaden"
+        },
+        {
+            "name": "NOVA direkte",
+            "url": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+            "image": "https://static.mytuner.mobi/media/tvos_radios/4SkxQh4mwS.jpg",
+            "lang": "Hovedstaden"
+        }
+    ]
+}
