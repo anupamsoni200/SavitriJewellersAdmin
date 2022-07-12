@@ -1,5 +1,11 @@
 {
     "MainItem": [
+           {
+            "name": "Photo of a Pathway in a Forest",
+            "image": "https://images.unsplash.com/photo-1505322022379-7c3353ee6291?ixlib=rb-1.2.1&dl=guille-pozzi-SHcHVFhz7-M-unsplash.jpg&q=80&fm=jpg&crop=entropy&cs=tinysrgb",
+            "cat": "Nature"
+        },
+        
         {
             "name": "Photo of a Pathway in a Forest",
             "image": "https://i.pinimg.com/564x/11/0e/bd/110ebd9866ad99dd12e4ffdbf9c19864.jpg",
