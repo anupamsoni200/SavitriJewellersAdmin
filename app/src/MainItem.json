@@ -1,105 +1,680 @@
 {
     "MainItem": [
-           {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://photos.google.com/share/AF1QipNh2rgq40gcTXGmQj-BjJHv2nFDyByHB3BO6nOx6GGvDLuQAhVKSiniUaeaAG-FvA/photo/AF1QipPJF4bJ-skTV29bO8mZuUinb4tttVL8wQ5YKPjW?key=UzY5MG1rUWQwZU11MHpyckZPSXpyT0RkMEs3d0Nn",
-            "cat": "Nature"
-        },
-        
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8ojBuoh3pZ8UIlkTzgu9O9DXJN0THm7jBs3sypK1dxneJ9IQ7jKOZ3Sv15PREPxC7F11gGConJeRqtig1w33-1dtokF7ln83UfTPrv1HAKhxYWGGLrDt46d8aPwZX91uNBXSXB9VQTdLAWrVDimoK3x2_NR_rH_ow1vr8k7C2RntUS3iRkHY2Tvxd/s320/238149.jpg",
-            "cat": "Nature"
+            "name": "Chris Ngu - Streets of NYC",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/02.%20Chris%20Ngu%20-%20Streets%20of%20NYC.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8MGVJqjKA7CegWKz3Rh-hz36Hz-8N1hZ5JfQzrgrV5OO45Tvyb_PPkdREgm9U0zpL_kt_ypYZPXN3SiVVyihNT4yBUB0fmcDYpwKvk8_7PT6NFgUeUBGQoKVB6LaovF6A-X35ihU91chiFeUyZVuqnsW7SLj12SvKiGnzNWJlJB10k3JwWMpi2XuM/s320/3970151.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/03.%20Chris%20Ngu%20-%20NYC%20skyline.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTYwgoUdCpj08KSW6Umcrfs7D2g3zkf6nA4Zp6uzB0F8Uy5qLV8PWRGH3LL-s0Phrn9_lkzY9NJfYysdrxMp7BKByxzqqUpONBzNllREP4CgIt1ZfXsrYrTf0NReZz5El15v_V_soPS4S0uvGVtaEUoxgFsmQAMfhKK1Gqqf22NhpfkhmjRGkuVcMh/s320/1687672.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/04.%20Chris%20Ngu%20-%20NYC%20street%20lights.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3wtxu6vmu8u7C3jp5X_fGG38HfzEFEah4QRgBh6tgbggB8TccCcL0thSZbP-cP2W7qkCrRSkTH9JRpS6MSSYaxyd1re2ZjvaANZmMFzk5vkFXw3oNPkhihLKY-rY2y8dj_W47oZBRCFPEMKlt5IhSH5XBIUOdcY4A3FqXSm9qqlFJ--IoLXlqly1M/s320/804241.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/05.%20Chris%20Ngu%20-%20NYC%20alleys.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/05/18/d2/0518d2de5a188f9de354d3b133340da9.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/06.%20Mike%20Will%20-%20St%20Paul's,%20London.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/76/05/16/760516dd0719695531d539a9f826dd83.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/07.%20Mike%20Will%20-%20Canary%20Wharf,%20London.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/de/44/79/de4479014e4f4f498ee8323c9c1bab51.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/08.%20Mike%20Will%20-%20Underground%20Station,%20London.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/b7/a3/f1/b7a3f17e35daa594fe8b38c419ec9793.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/09.%20Mike%20Will%20-%20Crossrail%20Tunnel,%20Canary%20Wharf,%20London.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/89/bf/69/89bf694ec7376222b81eaa8a6d38430b.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/1.png?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/af/22/c4/af22c43d80b50196ef3a1510f55b62e3.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/10.%20Hiroaki%20Fukuda%20-%20Yakushima%20Island,%20JP.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/6c/6d/d6/6c6dd6937ec835b6eb3182cb5dd0beee.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/10.png?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/ba/35/a9/ba35a9f4b0f8e6060aa282c568ef087a.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/11.%20Hiroaki%20Fukuda%20-%20Takachiho%20Gorge,%20JP.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/19/ba/ef/19baef36fe87db57065d1aaf092ca1ae.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/11.png?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/d1/70/6b/d1706ba2de799e9b0170b26f6bedda9e.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/12.%20Hiroaki%20Fukuda%20-%20Takachiho%20Gorge,%20JP.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/c3/58/1b/c3581bc36c7300793c72472262f0c163.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/12.png?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/03/48/b6/0348b65919fcbe1e4f559dc4feb0ee13.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/13.%20Hiroaki%20Fukuda%20-%20Takachiho%20Gorge,%20JP.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/2b/ea/60/2bea60d2f91e1d2555e7034463e26fcf.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/13.png?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Photo of a Pathway in a Forest",
-            "image": "https://i.pinimg.com/564x/ad/c8/1e/adc81e1b0976cc240d87095917aad240.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/14.png?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "Mountain At Night Under A Starry Sky",
-            "image": "https://i.pinimg.com/564x/19/d2/ec/19d2ec0d6b13f9486f734663d66622e2.jpg",
-            "cat": "Nature"
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/15.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/16.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/17.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/18.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/19.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/2.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/20.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/21.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/22.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/3.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/4.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/5.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/6.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/7.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/8.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/9.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(1).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(10).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(11).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(12).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(13).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(14).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(15).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(16).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(17).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(18).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(19).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(2).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(20).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(3).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(4).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(5).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(6).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(7).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(8).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010%20wallpapers%20androidsage.com%20(9).png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%20N%20Dev%20Preview%203%20wallpapers%201.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%20N%20Dev%20Preview%203%20wallpapers%202.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%20N%20Dev%20Preview%203%20wallpapers%203.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%20N%20Dev%20Preview%203%20wallpapers%204.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-1.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-10.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-11.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-12.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-13.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-14.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-15.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-16.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-17.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-18.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-19.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-2.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-3.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-4.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-5.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-6.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-7.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-8.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android-9-Pie-Wallpaper-9.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-007.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-008.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-009.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-010.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-011.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-012.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-013.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-014.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-015.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-1080x2448-016.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-2448x2448-002.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-2448x2448-003.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-2448x2448-004.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-2448x2448-005.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ROG-Phone-5-Stock-Wallpaper-2448x2448-006.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-001.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-002.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-003.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-004.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-005.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-006.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-007.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-008.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-009.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-010.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-011.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-ZenFone-8-Flip-Stock-Wallpaper-012.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-02-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-03-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-04-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-05-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-06-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-07-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-08-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-09-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-10-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-11-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-12-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-13-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-14-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-15-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-16-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-17-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-18-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-19-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Asus-Zenfone-6-Stock-Wallpaper-20-1080x2340.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Bird%20Feather.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Blue%20Stripes.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Colored%20Feathers.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Flower%20Petals.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/GetCurrentWallpaper_1576083586.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Google%20Pixel%206%20leaked%20wallpapers%20Oct%208%20image%201.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Google%20Pixel%206%20leaked%20wallpapers%20Oct%208%20image%202.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Google%20Pixel%206%20leaked%20wallpapers%20Oct%208%20image%203.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Google%20Pixel%206%20leaked%20wallpapers%20Oct%208%20image%205.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Google%20Pixel%206%20leaked%20wallpapers%20Oct%208%20image%206.png?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Android",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Google%20Pixel%20demo%20wallpaper.jpg?raw=true",
+            "cat": "Android"
+        },
+
+        {
+            "name": "Chris Ngu - Oculus, NYC",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/01.%20Chris%20Ngu%20-%20Oculus,%20NYC.jpg?raw=true",
+            "cat": "Android"
         }
     ]
 }
