@@ -1,11 +1,6 @@
 {
     "MainItem": [
-               {
-            "name": "iPhone XR",
-            "thumbnail": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Crystallization051.jpg?raw=true",
-            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Black%20Dark%20(2).jpg?raw=true",
-            "cat": "Android"
-        },
+
         {
             "name": "iPhone 12",
             "thumbnail": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Black%20Dark%20(2).jpg?raw=true",
