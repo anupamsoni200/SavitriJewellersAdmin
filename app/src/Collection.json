@@ -1,12 +1,14 @@
 {
     "Collection": [
         {
-            "name": "Nature",
-            "image": "https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            "name": "Android Default Wallpaper",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010/Samsung%20Galaxy%20Z%20Flip%20wallpapers%201.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "name": "DR P4 København direkte",
-            "image": "https://static.mytuner.mobi/media/tvos_radios/WhsVPWQfgR.png"
+            "name": "iPhone",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Dark%20Blue%20(2).jpg",
+            "cat": "iPhone"
         }
     ]
 }
