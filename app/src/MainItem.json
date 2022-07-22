@@ -2,6 +2,12 @@
     "MainItem": [
         {
             "name": "Android",
+            "thumbnail": "https://github.com/anupamsoni200/ItemDoc/blob/main/BIKE/Artboard%201.jpg?raw=true",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/BIKE/Artboard%201.png?raw=true",
+            "cat": "Bike"
+        },
+        {
+            "name": "Android",
             "thumbnail": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%204/Love%20Pixel%20Wallpaper.jpg?raw=true",
             "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%204/Love%20Pixel%20Wallpaper.png?raw=true",
             "cat": "Android"
