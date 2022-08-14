@@ -12,6 +12,16 @@
             "cat": "Bike"
         },
         {
+            "name": "Love",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Love/Love%201/Love%20(159).jpg?raw=true",
+            "cat": "Love"
+        },
+        {
+            "name": "Animal",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Animal/Animal%203/Animal%20(124).jpg?raw=true",
+            "cat": "Animal"
+        },
+        {
             "name": "Sky",
             "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/SKY/SK1/SKY%20(52).jpg?raw=true",
             "cat": "Sky"
