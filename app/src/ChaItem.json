@@ -221,21 +221,21 @@
             "name": "India News MP & CG",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2016.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/mpcg.m3u8",
-            "cat": "",
+            "cat": "HindiNews",
             "subcat": ""
         },
         {
             "name": "India news Haryana",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2017.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/haryana.m3u8",
-            "cat": "",
+            "cat": "HindiNews",
             "subcat": ""
         },
         {
             "name": "India News Rajasthan",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2018.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/rajasthan.m3u8",
-            "cat": "",
+            "cat": "HindiNews",
             "subcat": ""
         },
         {
@@ -296,6 +296,13 @@
             "subcat": ""
         },
         {
+            "name": "Living India News",
+            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2024.png?raw=true",
+            "url": "https://livelegitpro.in/hls14/livingindia/index.m3u8",
+            "cat": "LNews",
+            "subcat": ""
+        },
+        {
             "name": "India Today",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/India%20Today.jpg?raw=true",
             "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
@@ -317,13 +324,6 @@
             "subcat": ""
         },
         {
-            "name": "Living India News",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2024.png?raw=true",
-            "url": "https://livelegitpro.in/hls14/livingindia/index.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
             "name": "NewsX",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2025.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/newsx.m3u8",
@@ -341,21 +341,21 @@
             "name": "Sadhna",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2027.png?raw=true",
             "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8",
-            "cat": "Other",
+            "cat": "Dharmik",
             "subcat": ""
         },
         {
             "name": "ishwar",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2026.png?raw=true",
             "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
-            "cat": "Other",
+            "cat": "Dharmik",
             "subcat": ""
         },
         {
             "name": "Sadhna Global",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2027.png?raw=true",
             "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/devamlive/tv.stream/playlist.m3u8",
-            "cat": "Other",
+            "cat": "Dharmik",
             "subcat": ""
         },
         {
