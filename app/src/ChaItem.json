@@ -81,35 +81,35 @@
             "name": "News18 Rajasthan",
             "image": "https://images.news18.com/static_news18/pix/ibnhome/news18/rajasthan/raja-for-web.png",
             "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
             "name": "News18 बिहार | झारखंड",
             "image": "https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-bihar.gif",
             "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
             "name": "News18 उत्तर प्रदेश | उत्तराखंड",
             "image": "https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-up-uk-for-web.gif",
             "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
             "name": "News18 मध्य प्रदेश | छत्तीसगढ़",
             "image": "https://static.hindi.news18.com/ibnkhabar/uploads/assests/img/hindi-chhattisgarh.gif",
             "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
             "name": "NEWS18 PUNJAB, HARYANA, HIMACHAL",
             "image": "https://static.hindi.news18.com/ibnkhabar/uploads/2018/03/news18-punjab-haryana-himachal.gif",
             "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
@@ -214,28 +214,28 @@
             "name": "India News UK & UP",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2014.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/inup.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
             "name": "India News MP & CG",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2016.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/mpcg.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
             "name": "India news Haryana",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2017.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/haryana.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
             "name": "India News Rajasthan",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2018.png?raw=true",
             "url": "https://itvoign.multitvsolution.com/hls/rajasthan.m3u8",
-            "cat": "HindiNews",
+            "cat": "LNews",
             "subcat": ""
         },
         {
@@ -252,7 +252,6 @@
             "cat": "HindiNews",
             "subcat": ""
         },
-
         {
             "name": "ABP Majha",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%201.jpg?raw=true",
