@@ -1,16 +1,19 @@
 {
-    "PodWorld": [
+    "PodCollection": [
         {
-            "image": "https://static.mytuner.mobi/media/podcasts/334/bhagavad-gita-hindi.jpg",
-            "name": "Bhagavad Gita Hindi by Yatharth Geeta"
+            "name": "Android Default Wallpaper",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010/Samsung%20Galaxy%20Z%20Flip%20wallpapers%201.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "image": "https://static.mytuner.mobi/media/podcasts/689/hanuman-chalisa.jpg",
-            "name": "Hanuman Chalisa"
+            "name": "Android Default Wallpaper",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010/Samsung%20Galaxy%20Z%20Flip%20wallpapers%201.jpg?raw=true",
+            "cat": "Android"
         },
         {
-            "image": "https://images.theabcdn.com/i/37474345/300x300/c",
-            "name": "Mythological Stories In Hindi"
+            "name": "Android Default Wallpaper",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010/Samsung%20Galaxy%20Z%20Flip%20wallpapers%201.jpg?raw=true",
+            "cat": "Android"
         }
     ]
 }
