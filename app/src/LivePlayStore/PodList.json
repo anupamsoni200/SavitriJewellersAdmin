@@ -1,19 +1,12 @@
 {
     "PodWorld": [
         {
-            "__id__": "2L0iZdNs88lTLaBIFJVa",
-            "cat": "Bhagavad Gita Hindi by Yatharth Geeta",
             "image": "https://static.mytuner.mobi/media/podcasts/334/bhagavad-gita-hindi.jpg",
-            "name": "Bhagavad Gita Hindi by Yatharth Geeta",
-            "ordervalue": 10,
-            "url": "https://audioboom.com/posts/5554534.mp3?modified=1575042996&source=rss&stitched=1"
+            "name": "Bhagavad Gita Hindi by Yatharth Geeta"
         },
-       
         {
-            "__id__": "xHNMR0uXQkUX9r7ugWU2",
-            "cat": "Hanuman Chalisa",
             "image": "https://static.mytuner.mobi/media/podcasts/689/hanuman-chalisa.jpg",
-            "name": "Hanuman Chalisa ffdf"
+            "name": "Hanuman Chalisa"
         }
     ]
 }
