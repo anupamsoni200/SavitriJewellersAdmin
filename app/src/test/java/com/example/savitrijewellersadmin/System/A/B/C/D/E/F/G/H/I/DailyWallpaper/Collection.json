@@ -1,0 +1,50 @@
+{
+    "Collection": [
+
+        {
+            "name": "Android Default Wallpaper",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010/Samsung%20Galaxy%20Z%20Flip%20wallpapers%201.jpg?raw=true",
+            "cat": "Android"
+        },
+        {
+            "name": "Bike",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/BIKE/Artboard%201.jpg?raw=true",
+            "cat": "Bike"
+        },
+        {
+            "name": "Love",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Love/Love%201/Love%20(159).jpg?raw=true",
+            "cat": "Love"
+        },
+        {
+            "name": "Animal",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Animal/Animal%203/Animal%20(124).jpg?raw=true",
+            "cat": "Animal"
+        },
+        {
+            "name": "Sky",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/SKY/SK1/SKY%20(52).jpg?raw=true",
+            "cat": "Sky"
+        },
+        {
+            "name": "Blur",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/BLUR/BLUR%201/BLUR%20(1).jpg?raw=true",
+            "cat": "Blur"
+        },
+        {
+            "name": "Cartoon",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Cartoon/Cartoon%204/Main%20Cartoon%20%20(194).jpg?raw=true",
+            "cat": "Cartoon"
+        },
+        {
+            "name": "God",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/God/God%203/god%2046.jpg?raw=true",
+            "cat": "God"
+        },
+        {
+            "name": "iPhone",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Dark%20Blue%20(2).jpg?raw=true",
+            "cat": "iPhone"
+        }
+    ]
+}
