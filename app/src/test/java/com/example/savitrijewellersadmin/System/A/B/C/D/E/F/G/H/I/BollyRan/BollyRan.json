@@ -1,0 +1,16 @@
+{
+    "BollyRandom": [
+        {
+            "name": "iPhone 12",
+            "thumbnail": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Black%20Dark%20(2).jpg?raw=true",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Black%20Dark.jpg?raw=true",
+            "cat": "iPhone"
+        },
+        {
+            "name": "iPhone 12",
+            "thumbnail": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Blue%20Light%20(2).jpg?raw=true",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Blue%20Light.jpg?raw=true",
+            "cat": "iPhone"
+        }
+    ]
+}
