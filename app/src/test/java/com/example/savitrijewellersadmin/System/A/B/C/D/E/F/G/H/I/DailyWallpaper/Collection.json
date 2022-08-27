@@ -7,6 +7,26 @@
             "cat": "Android"
         },
         {
+            "name": "Girl",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/GIRL/GIRL%204/wallhaven-pk6ky9_1080x2220.jpg?raw=true",
+            "cat": "Girl"
+        },
+        {
+            "name": "Game",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Game/Game%203/Game%20WallPaper-%20(110%20(2).jpg?raw=true",
+            "cat": "Game"
+        },
+        {
+            "name": "Abstract",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Abstract/Abstract%201/Artboard%2050%20(2).jpg?raw=true",
+            "cat": "Abstract"
+        },
+        {
+            "name": "Dark",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Dark/Dark%202/Artboard%2036%20(2).jpg?raw=true",
+            "cat": "Dark"
+        },
+        {
             "name": "Bike",
             "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/BIKE/Artboard%201.jpg?raw=true",
             "cat": "Bike"
