@@ -1,6 +1,5 @@
 {
     "Collection": [
-
         {
             "name": "Android Default Wallpaper",
             "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Android/Android%2010/Samsung%20Galaxy%20Z%20Flip%20wallpapers%201.jpg?raw=true",
@@ -60,6 +59,76 @@
             "name": "God",
             "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/God/God%203/god%2046.jpg?raw=true",
             "cat": "God"
+        },
+        {
+            "name": "3d",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/3d/wallhaven-4ddx5g_1080x2220.jpg?raw=true",
+            "cat": "3d"
+        },
+        {
+            "name": "Joker",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/JOKER/JOKER%201/Artboard%201%20(2).jpg?raw=true",
+            "cat": "Joker"
+        },
+        {
+            "name": "Beard",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/beard/wallhaven-2e9plm_1080x2220.jpg?raw=true",
+            "cat": "Beard"
+        },
+        {
+            "name": "Cosplay",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/cosplay/wallhaven-0jm295_1080x2220.jpg?raw=true",
+            "cat": "Cosplay"
+        },
+        {
+            "name": "Digital Art",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/digital%20art/wallhaven-g82rl7_1080x2220.jpg?raw=true",
+            "cat": "Digital Art"
+        },
+        {
+            "name": "Fictional",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/fictional/wallhaven-45yx30_1080x2220.jpg?raw=true",
+            "cat": "Fictional"
+        },
+        {
+            "name": "Guns",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/guns/Artboard%201%20(2).jpg?raw=true",
+            "cat": "Guns"
+        },
+        {
+            "name": "Machine",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/machine%EF%80%A8/Artboard%206%20(2).jpg?raw=true",
+            "cat": "Machine"
+        },
+        {
+            "name": "Movies",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/movies/Artboard%201%20(2).jpg?raw=true",
+            "cat": "Movies"
+        },
+        {
+            "name": "Terminator",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/terminator/Artboard%201%20(2).jpg?raw=true",
+            "cat": "Terminator"
+        },
+        {
+            "name": "Vector",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/vector/Artboard%201%20(2).jpg?raw=true",
+            "cat": "Vector"
+        },
+        {
+            "name": "Villains",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/NEW/villains/Artboard%201%20(2).jpg?raw=true",
+            "cat": "Villains"
+        },
+        {
+            "name": "Skull",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/SKULL/SKULL%201/wallhaven-42e15y_1080x2220.jpg?raw=true",
+            "cat": "Skull"
+        },
+        {
+            "name": "Space",
+            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/SPACE/SPACE%204/wallhaven-j53qwp_1080x2220.jpg?raw=true",
+            "cat": "Space"
         },
         {
             "name": "iPhone",
