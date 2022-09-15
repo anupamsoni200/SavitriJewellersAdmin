@@ -1,14 +1,124 @@
 {
     "BollyCollection": [
         {
-            "name": "iPhone 12",
-            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Black%20Dark.jpg?raw=true",
-            "cat": "iPhone"
+            "name": "Aditi Rao",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Aditi%20Rao/wallpapersden.com_aditi-rao-in-swim-suit_1440x2960%20(2).jpg?raw=true",
+            "cat": "Aditi Rao"
         },
         {
-            "name": "iPhone 12",
-            "image": "https://github.com/anupamsoni200/ItemDoc/blob/main/Iphone/iPhone%2012%20Orb%20Blue%20Light.jpg?raw=true",
-            "cat": "iPhone"
+            "name": "Aishwarya Rai",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Aishwarya%20Rai/Artboard%2040%20(2).jpg?raw=true",
+            "cat": "Aishwarya Rai"
+        },
+        {
+            "name": "Alia Bhatt",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Alia%20Bhatt/Artboard%2010%20(2).jpg?raw=true",
+            "cat": "Alia Bhatt"
+        },
+        {
+            "name": "Ameesha Patel",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Ameesha%20Patel/Artboard%202%20(2).jpg?raw=true",
+            "cat": "Ameesha Patel"
+        },
+        {
+            "name": "Amrita Rao",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Amrita%20Rao/Artboard%204Amrita%20(2).jpg?raw=true",
+            "cat": "Amrita Rao"
+        },
+        {
+            "name": "Amy Jackson",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Amy%20Jackson/Artboard%2010amy_jackson%20(2).jpg?raw=true",
+            "cat": "Amy Jackson"
+        },
+        {
+            "name": "Amyra Dastur",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Amyra%20Dastur/Artboard%204amyra_dastur%20(2).jpg?raw=true",
+            "cat": "Amyra Dastur"
+        },
+        {
+            "name": "Anaika Soti",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Anaika%20Soti/Artboard%201anaika_soti%20(2).jpg?raw=true",
+            "cat": "Anaika Soti"
+        },
+        {
+            "name": "Ananya Pandey",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Ananya%20Pandey/wallpapersden.com_ananya-panday-actress-hd_1920x2395%20(2).jpg?raw=true",
+            "cat": "Ananya Pandey"
+        },
+        {
+            "name": "Anjali",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Anjali/Artboard%2013anjali%20(2).jpg?raw=true",
+            "cat": "Anjali"
+        },
+        {
+            "name": "Anushka Sharma",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Anushka%20Sharma/Artboard%2033Anushka%20(2).jpg?raw=true",
+            "cat": "Anushka Sharma"
+        },
+        {
+            "name": "Anushka Shetty",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Anushka%20Shetty/Artboard%2049Anushka%20(2).jpg?raw=true",
+            "cat": "Anushka Shetty"
+        },
+        {
+            "name": "Asin",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Asin/Artboard%2014Ashin%20(2).jpg?raw=true",
+            "cat": "Asin"
+        },
+        {
+            "name": "Athiya Shetty",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Athiya%20Shetty/wallpapersden.com_athiya-shetty-2020_1440x2960%20(2).jpg?raw=true",
+            "cat": "Athiya Shetty"
+        },
+        {
+            "name": "Ayesha Takia",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Ayesha%20Takia/Artboard%2013Ayesha%20Takia%20(2).jpg?raw=true",
+            "cat": "Ayesha Takia"
+        },
+        {
+            "name": "Bhairavi Goswami",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Bhairavi%20Goswami/wallpapersden.com_bhairavi-goswami-hot-hd-wallpaper_2339x3508%20(2).jpg?raw=true",
+            "cat": "Bhairavi Goswami"
+        },
+        {
+            "name": "Bhavana",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Bhavana/Artboard%204Bhavana%20(2).jpg?raw=true",
+            "cat": "Bhavana"
+        },
+        {
+            "name": "Bhumi Pednekar",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Bhumi%20Pednekar/wallpapersden.com_bhumi-pednekar-2020_1440x2960%20(2).jpg?raw=true",
+            "cat": "Bhumi Pednekar"
+        },
+        {
+            "name": "Bipasha Basu",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Bipasha%20Basu/Artboard%2011Bipasha%20(2).jpg?raw=true",
+            "cat": "Bipasha Basu"
+        },
+        {
+            "name": "Catherine Tresa",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Catherine%20Tresa/actress_catherine_tresa-1080x1920%20(2).jpg?raw=true",
+            "cat": "Catherine Tresa"
+        },
+        {
+            "name": "Charmi",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Charmi/Artboard%202charmi%20(2).jpg?raw=true",
+            "cat": "Charmi"
+        },
+        {
+            "name": "Chitrangada Singh",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Chitrangada%20Singh/Artboard%206chitrangada_%20(2).jpg?raw=true",
+            "cat": "Chitrangada Singh"
+        },
+        {
+            "name": "Daisy Shah",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Daisy%20Shah/Artboard%203daisy_shah%20(2).jpg?raw=true",
+            "cat": "Daisy Shah"
+        },
+        {
+            "name": "Adah Sharma",
+            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/BWood/Adah%20Sharma/Artboard%204%20(2).jpg?raw=true",
+            "cat": "Adah Sharma"
         }
     ]
 }
