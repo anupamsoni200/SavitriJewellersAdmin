@@ -143,7 +143,7 @@
         {
             "name": "HINDI KHABAR",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2010.png?raw=true",
-            "url": "https://phando014.s.llnwi.net/hls/modn/list/8001/chunklist0.m3u8",
+            "url": "https://server.livelegitpro.in:9899/hindikhabar/hindikhabar/tracks-v1a1/mono.m3u8",
             "cat": "HindiNews",
             "subcat": ""
         },
@@ -162,20 +162,6 @@
             "subcat": ""
         },
         {
-            "name": "India News",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2013.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/inkhabar.m3u8",
-            "cat": "HindiNews",
-            "subcat": ""
-        },
-        {
-            "name": "HNN 24X7",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2022.png?raw=true",
-            "url": "https://thelegitpro.in/hls14/hnnnews/index.m3u8",
-            "cat": "HindiNews",
-            "subcat": ""
-        },
-        {
             "name": "Sadhna Plus News",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2028.png?raw=true",
             "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8",
@@ -190,34 +176,6 @@
             "subcat": ""
         },
         {
-            "name": "India News UK & UP",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2014.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/inup.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "India News MP & CG",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2016.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/mpcg.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "India news Haryana",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2017.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/haryana.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "India News Rajasthan",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2018.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/rajasthan.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
             "name": "IBC 24",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2023.png?raw=true",
             "url": "https://livetv.ibc24.in/livestream.m3u8",
@@ -229,48 +187,6 @@
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%206.jpg?raw=true",
             "url": "https://feeds.intoday.in/gnt/api/master.m3u8",
             "cat": "HindiNews",
-            "subcat": ""
-        },
-        {
-            "name": "ABP Majha",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%201.jpg?raw=true",
-            "url": "https://m-c04-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "ABP Sanjha",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%202.png?raw=true",
-            "url": "https://m-c04-j2apps.s.llnwi.net/hls/7018.ABPSanjha.in.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "ABP Asmita",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%203.png?raw=true",
-            "url": "https://m-c04-j2apps.s.llnwi.net/hls/7019.ABPAsmita.in.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "ABP Ananda",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%204.png?raw=true",
-            "url": "https://m-c04-j2apps.s.llnwi.net/hls/7015.ABPAnanda.in.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "India News Punjab",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2015.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/punjab.m3u8",
-            "cat": "LNews",
-            "subcat": ""
-        },
-        {
-            "name": "India News Gujarat",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2019.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/gujarat.m3u8",
-            "cat": "LNews",
             "subcat": ""
         },
         {
@@ -298,13 +214,6 @@
             "name": "DW",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2021.png?raw=true",
             "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8",
-            "cat": "EnglishNews",
-            "subcat": ""
-        },
-        {
-            "name": "NewsX",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2025.png?raw=true",
-            "url": "https://itvoign.multitvsolution.com/hls/newsx.m3u8",
             "cat": "EnglishNews",
             "subcat": ""
         },
@@ -347,13 +256,6 @@
             "name": "CGTN Documentary",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/CGTN%20Documentry.jpg?raw=true",
             "url": "https://livedoc.cgtn.com/1000d/prog_index.m3u8",
-            "cat": "Other",
-            "subcat": ""
-        },
-        {
-            "name": "RedBull TV",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/RedBull.jpg?raw=true",
-            "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
             "cat": "Other",
             "subcat": ""
         }
