@@ -337,6 +337,13 @@
             "subcat": ""
         },
         {
+            "name": "Republic",
+            "image": "https://img.republicworld.com/republic-prod/logo/tr:h-28/1614674195603df91369448.png",
+            "url": "https://weblive.republicworld.com/httppush/ottr_republic_english/weblive/master.m3u8",
+            "cat": "EnglishNews",
+            "subcat": ""
+        },
+        {
             "name": "Sadhna",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2027.png?raw=true",
             "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8",
