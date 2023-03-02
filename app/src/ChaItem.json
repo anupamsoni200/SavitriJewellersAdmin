@@ -15,13 +15,6 @@
             "subcat": ""
         },
         {
-            "name": "Republic Bharat",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Republic%20Bharat.jpg?raw=true",
-            "url": "https://ottrb21.republicworld.com/v1/master/3b48e218addf61132f4eb1c584495b7308b8fafa/republicbharat-ottrb21-prod/master.m3u8",
-            "cat": "HindiNews",
-            "subcat": ""
-        },
-        {
             "name": "ABP News",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/ABP%20NEWS.jpg?raw=true",
             "url": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8",
@@ -71,13 +64,6 @@
             "subcat": ""
         },
         {
-            "name": "Amar Ujala",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Amar%20Ujala.jpg?raw=true",
-            "url": "https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8",
-            "cat": "HindiNews",
-            "subcat": ""
-        },
-        {
             "name": "News18 Rajasthan",
             "image": "https://images.news18.com/static_news18/pix/ibnhome/news18/rajasthan/raja-for-web.png",
             "url": "https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8",
@@ -116,13 +102,6 @@
             "name": "Samachar today",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2031.png?raw=true",
             "url": "https://stnews.livebox.co.in/samachartodayhls/live.m3u8",
-            "cat": "HindiNews",
-            "subcat": ""
-        },
-        {
-            "name": "GBN 24",
-            "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/Artboard%2032.png?raw=true",
-            "url": "https://genesys.livebox.co.in/gbnhls/live.m3u8",
             "cat": "HindiNews",
             "subcat": ""
         },
