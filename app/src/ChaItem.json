@@ -3,7 +3,7 @@
         {
             "name": "India Tv",
             "image": "https://github.com/anupamsoni200/SavitriJewellersAdmin/blob/master/app/Logo/INDAI%20Tv.jpg?raw=true",
-            "url": "https://m-c04-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8",
+            "url": "https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in.m3u8",
             "cat": "HindiNews",
             "subcat": ""
         },
