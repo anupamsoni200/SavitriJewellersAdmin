@@ -2,12 +2,17 @@
     "IndCollection": [
         {
             "name": "Western",
-            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/INDCOLLECTION/Western/Western%203/pexels-skg-photography-2919116%20(2).jpg?raw=true",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipM8eMjWgEU_eDfFbwO7P8igw5SnQ1NtxrZbGRgjT4nT2xX5lVxH4zdpJ-s_I5wUGjea1y2fV-j9lCy8EFdKw1RnBMlr96AXJYbaB1lbzqomCGEa1LiKv8Dnu5ilqioFNiPfNwRADAiHzIBNHONb4CYZ5MLqHTodM53WygRIWnNMPe1baNyO8jNU5_rww/s320/pexels-skg-photography-9195640.jpg",
             "cat": "Western"
         },
         {
+            "name": "Indian Dress",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaPqC-B2bFDhJ9q9GGS8VA0eR5lR7GX6T7nImrAEu1xpq0g97PMmjUGY0OexQwRpQdIMLJ2Yt1-isbtFxxPX1J8qedSLJ0RLOJSSURyH2rU1YeTqhyqI3GMFBVLxUH5yZUmStTXxay40kyFY1Tu55gt7afFo3LdgcRpGeCsh8d2ACJJsXG-fX88wwplIs/s320/pexels-skg-photography-2235180.jpg",
+            "cat": "Indian Dress"
+        },
+        {
             "name": "Bridal",
-            "image": "https://github.com/anupamsoni200/ActGirlCollection/blob/main/INDCOLLECTION/BRIDAL/BRIDAL%203/pexels-skg-photography-3363204%20(2).jpg?raw=true",
+            "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheQzyKmNSB9TacdnOOMVbUmW8eqTm-vhIoYFwtmZIvr3Y8GFBLVjSxGGN2f9-MxS3buyxI_BKJCIf-3Bxkx0HpnRHDLjz5hjeAWdWOdNz2Z7roy-H9lvVokuZM5Fgl6riGvOEPb2pt9n_0OyJsNXd5QcAKtza0ToGKSuPORE0VIp7JiwUFxRoPuE1dWKk/s320/pexels-skg-photography-3363204.jpg",
             "cat": "Bridal"
         }
     ]
