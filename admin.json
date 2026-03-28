@@ -1,5 +1,84 @@
 [
     {
+  "id": "m_149863",
+  "type": "webseries",
+  "title": "One Piece",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_SX300.jpg",
+  "banner": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_SX300.jpg",
+  "year": "1999–",
+  "actors": "Mayumi Tanaka, Akemi Okamura, Tony Beck",
+  "description": "Monkey D. Luffy, a pirate with rubber powers, forms the Straw Hat crew and sails the Grand Line, battling rivals and the World Government on a quest for the legendary treasure One Piece and the title of Pirate King.",
+  "genre": "Animation, Action, Adventure",
+  "industry": "Hollywood",
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "resolutions": {
+            "480p": [],
+            "720p": [
+              "https://cdn.fsl-buckets.work/ONE.PIECE.S02E01.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+              "https://hub.pizzacdn.buzz/16c81122ada41a77fbbcd1390a0cdd73"
+            ],
+            "1080p": [
+              "https://fsl.gigabytes.icu/ONE.PIECE.S02E01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+              "https://hub.pizzacdn.buzz/f56da2446519312faee1cddec66c8d35"
+            ],
+            "4k": []
+          }
+        },
+        {
+          "episode_number": 2,
+          "resolutions": {
+            "480p": [],
+            "720p": [
+              "https://fsl.gigabytes.icu/ONE.PIECE.S02E02.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+              "https://hub.pizzacdn.buzz/8c851086abfe3ca897ce83bcca1ba374"
+            ],
+            "1080p": [
+              "https://cdn.fsl-buckets.life/ONE.PIECE.S02E02.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+              "https://hub.pizzacdn.buzz/05ad21a25f63d1d7490b1d6324729593"
+            ],
+            "4k": []
+          }
+        },
+        {
+          "episode_number": 3,
+          "resolutions": {
+            "480p": [],
+            "720p": [
+              "https://hub.pizzacdn.buzz/0c7de9668f204fc08f197d39268b5d45",
+              "https://fsl.gigabytes.icu/ONE.PIECE.S02E03.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv"
+            ],
+            "1080p": [
+              "https://hub.pizzacdn.buzz/b9492ec6ca428cf2a5b51344d95f3eda",
+              "https://cdn.fsl-buckets.work/ONE.PIECE.S02E03.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv"
+            ],
+            "4k": []
+          }
+        },
+        {
+          "episode_number": 4,
+          "resolutions": {
+            "480p": [],
+            "720p": [
+              "https://hub.pizzacdn.buzz/09b2ade39b975729c25abd684a518bb6",
+              "https://cdn.fukggl.buzz/ONE.PIECE.S02E04.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv"
+            ],
+            "1080p": [
+              "https://hub.pizzacdn.buzz/76f5fdac9cbdb5c697a7418bd7e64f79",
+              "https://cdn.fsl-buckets.work/ONE.PIECE.S02E04.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv"
+            ],
+            "4k": []
+          }
+        }
+      ]
+    }
+  ]
+},
+    {
         "id": "m_57580",
         "type": "movie",
         "title": "Dhurandhar: The Revenge",
